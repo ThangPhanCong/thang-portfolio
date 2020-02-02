@@ -2,8 +2,10 @@
   "name": "thang-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.thangphan.com",
   "dependencies": {
     "firebase": "^7.2.0",
+    "gh-pages": "^2.2.0",
     "history": "^4.10.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
@@ -16,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
