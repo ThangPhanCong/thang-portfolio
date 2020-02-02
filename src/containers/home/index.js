@@ -12,8 +12,9 @@ import cardItemPresents from '../../assets/presents.png';
 import cardItemClass from '../../assets/class.png';
 import cardItemWork from '../../assets/work.png';
 import imgKyoto from '../../assets/kyoto.jpg';
-import imgTokyo from '../../assets/tokyo.jpg';
-import imgNagano from '../../assets/nagano.jpg';
+import imgMusicVn from '../../assets/music-vn.jpg';
+import imgMusicEn from '../../assets/music-en.jpg';
+import imgMusicJp from '../../assets/music-japan.jpg';
 import imgOsaka from '../../assets/osaka.jpg';
 
 import TH_CONSTANTS from '../../constants';
@@ -56,9 +57,9 @@ export default function () {
     <Container>
       <CardContainer>
         <Card background={backgroundMusics} title={'Musics'}>
-          <CardItem image={imgKyoto} content={"VietNam"}/>
-          <CardItem image={imgKyoto} content={"Japan"}/>
-          <CardItem image={imgKyoto} content={"English"}/>
+          <CardItem image={imgMusicVn} content={"VietNam"}/>
+          <CardItem image={imgMusicJp} content={"Japan"}/>
+          <CardItem image={imgMusicEn} content={"English"}/>
         </Card>
         <Card background={backgroundTrips} title={'Trips'}>
           {trips.map((item, index) => <CardItem image={item.background} key={index} content={item.title}
