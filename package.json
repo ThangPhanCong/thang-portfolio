@@ -2,7 +2,7 @@
   "name": "thang-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.thangphan96.com",
+  "homepage": "https://thangphancong.github.io/thang-portfolio",
   "dependencies": {
     "firebase": "^7.2.0",
     "gh-pages": "^2.2.0",
