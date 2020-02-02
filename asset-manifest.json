@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/thang-portfolio/static/css/main.30bc78c9.chunk.css",
-    "main.js": "/thang-portfolio/static/js/main.62407b47.chunk.js",
-    "main.js.map": "/thang-portfolio/static/js/main.62407b47.chunk.js.map",
-    "runtime-main.js": "/thang-portfolio/static/js/runtime-main.511e0666.js",
-    "runtime-main.js.map": "/thang-portfolio/static/js/runtime-main.511e0666.js.map",
-    "static/js/2.fdff4a80.chunk.js": "/thang-portfolio/static/js/2.fdff4a80.chunk.js",
-    "static/js/2.fdff4a80.chunk.js.map": "/thang-portfolio/static/js/2.fdff4a80.chunk.js.map",
-    "index.html": "/thang-portfolio/index.html",
-    "precache-manifest.1cf176e1dd0dd89e58fd281e9749fa87.js": "/thang-portfolio/precache-manifest.1cf176e1dd0dd89e58fd281e9749fa87.js",
-    "service-worker.js": "/thang-portfolio/service-worker.js",
-    "static/css/main.30bc78c9.chunk.css.map": "/thang-portfolio/static/css/main.30bc78c9.chunk.css.map",
-    "static/media/background.jpg": "/thang-portfolio/static/media/background.ee2c2964.jpg",
-    "static/media/kyoto.jpg": "/thang-portfolio/static/media/kyoto.acc71218.jpg",
-    "static/media/musics.jpg": "/thang-portfolio/static/media/musics.2a3005d0.jpg",
-    "static/media/nagano.jpg": "/thang-portfolio/static/media/nagano.54cc6ea8.jpg",
-    "static/media/osaka.jpg": "/thang-portfolio/static/media/osaka.4bb3ef81.jpg",
-    "static/media/profile.jpg": "/thang-portfolio/static/media/profile.1746d1d1.jpg",
-    "static/media/tokyo.jpg": "/thang-portfolio/static/media/tokyo.fc5b3a20.jpg",
-    "static/media/trips.jpg": "/thang-portfolio/static/media/trips.283319cd.jpg"
+    "main.css": "/static/css/main.30bc78c9.chunk.css",
+    "main.js": "/static/js/main.babdf582.chunk.js",
+    "main.js.map": "/static/js/main.babdf582.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2ca35c3b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2ca35c3b.js.map",
+    "static/js/2.ac709895.chunk.js": "/static/js/2.ac709895.chunk.js",
+    "static/js/2.ac709895.chunk.js.map": "/static/js/2.ac709895.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1b8dc35d5943ad30cdaf5f4cb6914918.js": "/precache-manifest.1b8dc35d5943ad30cdaf5f4cb6914918.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.30bc78c9.chunk.css.map": "/static/css/main.30bc78c9.chunk.css.map",
+    "static/media/background.jpg": "/static/media/background.ee2c2964.jpg",
+    "static/media/kyoto.jpg": "/static/media/kyoto.acc71218.jpg",
+    "static/media/musics.jpg": "/static/media/musics.2a3005d0.jpg",
+    "static/media/nagano.jpg": "/static/media/nagano.54cc6ea8.jpg",
+    "static/media/osaka.jpg": "/static/media/osaka.4bb3ef81.jpg",
+    "static/media/profile.jpg": "/static/media/profile.1746d1d1.jpg",
+    "static/media/tokyo.jpg": "/static/media/tokyo.fc5b3a20.jpg",
+    "static/media/trips.jpg": "/static/media/trips.283319cd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.511e0666.js",
-    "static/js/2.fdff4a80.chunk.js",
+    "static/js/runtime-main.2ca35c3b.js",
+    "static/js/2.ac709895.chunk.js",
     "static/css/main.30bc78c9.chunk.css",
-    "static/js/main.62407b47.chunk.js"
+    "static/js/main.babdf582.chunk.js"
   ]
 }
