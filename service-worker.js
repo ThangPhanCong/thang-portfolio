@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thang-portfolio/precache-manifest.f1bb1727f2e4cb00d3328f1da87f22f2.js"
+  "/thang-portfolio/precache-manifest.8f821bbf463e7052b128b8b68864d1e7.js"
 );
 
 self.addEventListener('message', (event) => {
